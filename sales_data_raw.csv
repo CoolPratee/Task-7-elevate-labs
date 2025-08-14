@@ -1,0 +1,21 @@
+order_id,order_date,product,quantity,price
+1,2025-07-01,Laptop Sleeve,3,14.99
+2,2025-07-01,USB-C Cable,5,6.5
+3,2025-07-02,Wireless Mouse,2,19.99
+4,2025-07-02,USB-C Cable,4,6.5
+5,2025-07-03,Laptop Sleeve,1,14.99
+6,2025-07-03,Keyboard,2,24.99
+7,2025-07-04,Wireless Mouse,3,19.99
+8,2025-07-05,Webcam,1,39.99
+9,2025-07-06,USB-C Cable,8,6.5
+10,2025-07-07,Keyboard,1,24.99
+11,2025-07-07,Laptop Stand,2,29.99
+12,2025-07-08,Laptop Stand,1,29.99
+13,2025-07-08,USB-C Cable,3,6.5
+14,2025-07-09,Laptop Sleeve,4,14.99
+15,2025-07-10,Wireless Mouse,1,19.99
+16,2025-07-10,Keyboard,3,24.99
+17,2025-07-11,Webcam,2,39.99
+18,2025-07-12,USB-C Cable,6,6.5
+19,2025-07-12,Laptop Sleeve,2,14.99
+20,2025-07-13,Wireless Mouse,2,19.99
